@@ -7,10 +7,11 @@
 body {
   position: fixed;
   overflow-x: hidden;
-  width: 100%;
+  width: 150%;
   height: 100%;
-  background-color: #1dd22;
-  background-image: url("https://static.vecteezy.com/system/resources/previews/033/296/044/non_2x/colorful-90s-seamless-pattern-squiggle-kid-background-doodle-minimalistic-wallpaper-with-basic-forms-and-lines-scribble-backdrop-vector.jpg");
+  background-color: #1d1d22;
+  background-size: 2000px 1000px;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/496150a2-f1c7-4db8-a226-51656ee2f555/dfy0tzn-0d686f99-c0ec-4884-a2cf-11b2dec0d122.png/v1/fill/w_800,h_600,q_80,strp/dreamcore_place_in_our_minds____by_equinoxec64_dfy0tzn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvNDk2MTUwYTItZjFjNy00ZGI4LWEyMjYtNTE2NTZlZTJmNTU1XC9kZnkwdHpuLTBkNjg2Zjk5LWMwZWMtNDg4NC1hMmNmLTExYjJkZWMwZDEyMi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ew77ck-7qCsKzp1uCIhNPCFjo0IDWjDFzYWwuiU2kmw");
 }
 
 .eye1 {
@@ -33,21 +34,37 @@ height: 700px;
 }
 
 .eye2 img {
-max-width: 100%;
+width: 30%;
+height: 25%;
 position: fixed;
-right: -650px;
-top: 200px;
+right: 375px;
+top: 100px;
 }
 
-.eye3 {
+.tv {
 width: 700px;
 height: 700px;
 
 }
 
-.eye3 img {
-max-width: 100%;
+.tv img {
+width: 30%;
+height: 30%;
 position: fixed;
-right: 900px;
-top: 700px;
+right: 30px;
+top: 540px;
+}
+
+.door {
+width: 700px;
+height: 700px;
+
+}
+
+.door img {
+width: 30%;
+height: 60%;
+position: fixed;
+right: 680px;
+top: 320px;
 }
