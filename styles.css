@@ -21,7 +21,7 @@ height: 700px;
 max-width: 100%;
 position: absolute;
 float: left;
-top: 200px;
+top: 0px;
 }
 
 .eye2 {
@@ -47,6 +47,5 @@ height: 700px;
 max-width: 100%;
 position: absolute;
 float: left;
-top: 400px;
+top: 800px;
 }
-
