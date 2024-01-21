@@ -4,6 +4,16 @@
 
 ::-webkit-scrollbar {  display: none;  }
 
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
+
 body {
   position: fixed;
   overflow-x: hidden;
