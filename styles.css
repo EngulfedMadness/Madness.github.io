@@ -20,7 +20,7 @@ height: 700px;
 .eye1 img {
 max-width: 100%;
 position: absolute;
-float: left;
+right: 300;
 top: 0px;
 }
 
@@ -46,6 +46,6 @@ height: 700px;
 .eye3 img {
 max-width: 100%;
 position: absolute;
-float: left;
+right: 300;
 top: 800px;
 }
