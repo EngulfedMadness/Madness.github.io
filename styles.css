@@ -7,8 +7,8 @@
 body {
   position: fixed;
   overflow-x: hidden;
-  width: 150%;
-  height: 100%;
+  width: 150vw;
+  height: 100vh;
   background-color: #1d1d22;
   background-size: 2000px 1000px;
   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/496150a2-f1c7-4db8-a226-51656ee2f555/dfy0tzn-0d686f99-c0ec-4884-a2cf-11b2dec0d122.png/v1/fill/w_800,h_600,q_80,strp/dreamcore_place_in_our_minds____by_equinoxec64_dfy0tzn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvNDk2MTUwYTItZjFjNy00ZGI4LWEyMjYtNTE2NTZlZTJmNTU1XC9kZnkwdHpuLTBkNjg2Zjk5LWMwZWMtNDg4NC1hMmNmLTExYjJkZWMwZDEyMi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ew77ck-7qCsKzp1uCIhNPCFjo0IDWjDFzYWwuiU2kmw");
