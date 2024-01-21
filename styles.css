@@ -17,8 +17,7 @@ height: 700px;
 .eye1 img {
 max-width: 100%;
 position: absolute;
-right: 10px;
-top: -35px;
+object-position: 50px 30px;
 }
 
 .eye2 {
